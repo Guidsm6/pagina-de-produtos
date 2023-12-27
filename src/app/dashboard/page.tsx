@@ -16,6 +16,8 @@ const Container = styled.div`
 `;
 
 const Main = styled.main`
+  padding-0
+  margin-0
   height: 100%; 
   background-color: #757575; 
   display: flex;
